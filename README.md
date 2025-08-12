@@ -7,7 +7,7 @@ The results indicate that smoking and alcohol consumption negatively affect heal
 The study underscores that lifestyle modifications can enhance health outcomes, emphasizing the importance of public education on long-term health behaviors. A healthy population is crucial for economic development, and while changing habits is challenging, awareness of daily choices is key. Statistical analyses were conducted using STATA.
 
 ### Key illustrations
-<img width="712" height="280" alt="image" src="https://github.com/user-attachments/assets/5fb513a9-462e-4c13-af61-29b38fdbe2d0" />
+<img width="707" height="262" alt="image" src="https://github.com/user-attachments/assets/6fb1ee3a-35c3-4aa9-8001-8f0434a3c49e" />
 <img width="714" height="256" alt="image" src="https://github.com/user-attachments/assets/21bd75de-cdd8-4f46-9a47-0adf7cb89cc9" />
 <img width="353" height="259" alt="image" src="https://github.com/user-attachments/assets/104ce8af-080d-4045-98ab-e45d56cccc38" />
 
