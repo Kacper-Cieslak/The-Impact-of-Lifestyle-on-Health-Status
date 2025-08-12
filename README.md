@@ -1,6 +1,6 @@
 # The Impact of Lifestyle on Health-Status
 ### Abstract
-This study examines the impact of lifestyle factors on self-assessed health status, using survey data from nearly 20 countries across Europe and Asia. An ordered logistic regression model was applied, with self-rated health as the dependent variable and lifestyle indicators (smoking, alcohol consumption, and physical activity) as explanatory variables. The findings confirm the research hypothesis that lifestyle significantly influences health perception.
+This study examines the impact of lifestyle factors on self-assessed health status, using survey data from nearly 20 countries across Europe and Asia. An ordered logistic regression model was applied, with self-rated health (V51) as the dependent variable and lifestyle indicators (smoking - V47, alcohol consumption - V48, and physical activity -V49) as explanatory variables. The findings confirm the research hypothesis that lifestyle significantly influences health perception.
 
 The results indicate that smoking and alcohol consumption negatively affect health: daily smoking and drinking reduce the likelihood of reporting "excellent" or "very good" health. In contrast, regular physical activity (at least 20 minutes daily) significantly increases the probability of positive health assessments while decreasing the odds of "fair" or "poor" ratings.
 
