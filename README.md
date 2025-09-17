@@ -10,8 +10,8 @@ The findings confirm the research hypothesis that lifestyle significantly influe
 The study underscores that lifestyle modifications can enhance health outcomes, emphasizing the importance of public education on long-term health behaviors. A healthy population is crucial for economic development, and while changing habits is challenging, awareness of daily choices is key. Statistical analyses were conducted using STATA.
 
 ### Key illustrations
-<img width="1029" height="377" alt="image" src="https://github.com/user-attachments/assets/723af312-1c35-4301-b539-29396dbc1a86" />
-<img width="641" height="459" alt="image" src="https://github.com/user-attachments/assets/d2abd7f5-54fc-48d3-8c23-5d32b21cac22" />
+<img width="1288" height="318" alt="image" src="https://github.com/user-attachments/assets/4a9dbaa1-e4de-4e49-a463-0ad749ef296d" />
+
 
 
 
